@@ -1,0 +1,6 @@
+.venv/
+.venv-pyrit/
+node_modules/
+__pycache__/
+.DS_Store
+.promptfoo/
